@@ -2,24 +2,30 @@
 <html>
 <body>
 <head>
-    <h1>
+  <title>Register Page</title>
+    <link rel="stylesheet" href="C:\Users\boran\OneDrive\Masaüstü (2)\web development\382\Ceng382_23_24_s_202011033\CSS\style.css">
+    <link rel="stylesheet" href="C:\Users\boran\OneDrive\Masaüstü (2)\web development\382\Ceng382_23_24_s_202011033\CSS\animation.css">
+    <h2 class="h2">
         User Registration
-    </h1>
+    </h2>
 </head>
 
-<form action="/action_page.php">
-  <label for="username">Username:</label><br>
-  <input type="text" id="username" name="username" ><br>
-  <label for="email">Email:</label><br>
-  <input type="text" id="email" name="email" ><br>
-  <label for="Password">Password:</label><br>
-  <input type="text" id="Password" name="Password" ><br>
-  <label for="Conpass">Confirm Password</label><br>
-  <input type="text" id="Conpass" name="Conpass" ><br><br>
-  <input type="Submit" value="Register">
+<form>
+  <div class="div">
+    <div class="container">
+    <div><label for="uname"><b>Username:</b></label></div>
+    <div><input type="text"  name="uname" required></div>
+  <div><label for="email"><b>Email:</b></label></div>
+ <div><input type="text" id="email" name="email" required></div> 
+  <div><label for="psw"><b>Password:</b></label></div>
+  <div><input type="password"  name="psw" required></div>
+  <div><label for="Conpass"><b>Confirm Password:</b></label></div>
+  <div><input type="text" id="Conpass" name="Conpass" required></div>
+  <button type="submit">Register</button>
+</div>
+</div>
+</div>
 </form> 
-
-
 
 </body>
 </html>
