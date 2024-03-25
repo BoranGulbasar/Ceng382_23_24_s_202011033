@@ -1,0 +1,52 @@
+.ecs{
+display:none;
+
+
+
+}
+.answerForm{
+    display: none;
+    padding: 5px;
+    width: 400px;
+    background-color: rgba(178, 255, 178, 0.527); 
+    color: rgb(12, 93, 12) ;
+    font-size: x-large;
+    margin-left: 455px;
+    }
+.button{
+    
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #0439aa;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  
+
+}
+.button:hover {background-color: #5c709c}
+.button:active {
+    background-color: #0439aa;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+
+.box{
+    
+    width: 25%;
+  padding: 10px 15px;
+  margin: 5px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+    
+
+}

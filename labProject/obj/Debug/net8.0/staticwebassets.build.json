@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AZ/qxJqlSWl6Df4qrd6OFYQ+/lX6rBcXPcy/phOlPzw=",
+  "Hash": "sB+I1nBErGCxTCbLErE5a7xFOa1zjx6nA/V0tFUTnYA=",
   "Source": "labProject",
   "BasePath": "_content/labProject",
   "Mode": "Default",
@@ -74,6 +74,25 @@
       "OriginalItemSpec": "wwwroot\\css\\checkout.css"
     },
     {
+      "Identity": "c:\\Users\\boran\\OneDrive\\Masaüstü (2)\\web development\\382\\Ceng382_23_24_s_202011033\\labProject\\wwwroot\\css\\lab5.css",
+      "SourceId": "labProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\boran\\OneDrive\\Masaüstü (2)\\web development\\382\\Ceng382_23_24_s_202011033\\labProject\\wwwroot\\",
+      "BasePath": "_content/labProject",
+      "RelativePath": "css/lab5.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\lab5.css"
+    },
+    {
       "Identity": "c:\\Users\\boran\\OneDrive\\Masaüstü (2)\\web development\\382\\Ceng382_23_24_s_202011033\\labProject\\wwwroot\\css\\site.css",
       "SourceId": "labProject",
       "SourceType": "Discovered",
@@ -110,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "c:\\Users\\boran\\OneDrive\\Masaüstü (2)\\web development\\382\\Ceng382_23_24_s_202011033\\labProject\\wwwroot\\js\\lab5.js",
+      "SourceId": "labProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\boran\\OneDrive\\Masaüstü (2)\\web development\\382\\Ceng382_23_24_s_202011033\\labProject\\wwwroot\\",
+      "BasePath": "_content/labProject",
+      "RelativePath": "js/lab5.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\lab5.js"
     },
     {
       "Identity": "c:\\Users\\boran\\OneDrive\\Masaüstü (2)\\web development\\382\\Ceng382_23_24_s_202011033\\labProject\\wwwroot\\js\\site.js",
