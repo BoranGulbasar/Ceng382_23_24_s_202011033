@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\boran\\OneDrive\\Masaüstü (2)\\web development\\382\\Ceng382_23_24_s_202011033\\labProject\\labProject.csproj": {}
+    "C:\\Users\\boran\\OneDrive\\Masaüstü (2)\\web development\\382\\Ceng382_23_24_s_202011033\\labProject\\labProject.csproj": {}
   },
   "projects": {
-    "c:\\Users\\boran\\OneDrive\\Masaüstü (2)\\web development\\382\\Ceng382_23_24_s_202011033\\labProject\\labProject.csproj": {
+    "C:\\Users\\boran\\OneDrive\\Masaüstü (2)\\web development\\382\\Ceng382_23_24_s_202011033\\labProject\\labProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\boran\\OneDrive\\Masaüstü (2)\\web development\\382\\Ceng382_23_24_s_202011033\\labProject\\labProject.csproj",
+        "projectUniqueName": "C:\\Users\\boran\\OneDrive\\Masaüstü (2)\\web development\\382\\Ceng382_23_24_s_202011033\\labProject\\labProject.csproj",
         "projectName": "labProject",
-        "projectPath": "c:\\Users\\boran\\OneDrive\\Masaüstü (2)\\web development\\382\\Ceng382_23_24_s_202011033\\labProject\\labProject.csproj",
+        "projectPath": "C:\\Users\\boran\\OneDrive\\Masaüstü (2)\\web development\\382\\Ceng382_23_24_s_202011033\\labProject\\labProject.csproj",
         "packagesPath": "C:\\Users\\boran\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\boran\\OneDrive\\Masaüstü (2)\\web development\\382\\Ceng382_23_24_s_202011033\\labProject\\obj\\",
+        "outputPath": "C:\\Users\\boran\\OneDrive\\Masaüstü (2)\\web development\\382\\Ceng382_23_24_s_202011033\\labProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\boran\\AppData\\Roaming\\NuGet\\NuGet.Config"
