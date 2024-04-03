@@ -149,7 +149,7 @@ class Program
         }
         ReservationHandler reservationHandler = new ReservationHandler();
 
-        Reservation[] reservationsArray = new Reservation[75];
+        Reservation[] reservationsArray = new Reservation[70];
         Random random = new Random();
 
         for (int i = 0; i < reservationsArray.Length; i++)
@@ -168,17 +168,29 @@ class Program
 
         reservationHandler.displayWeeklySchedule();
 
-        for (int i = 0; i < 5; i++)
-        {
-            int randomIndex = random.Next(reservationsArray.Length);
-            Reservation reservationToDelete = reservationsArray[randomIndex];
-            
-            reservationHandler.deleteReservation(reservationToDelete);
-        }
-        Console.WriteLine("(5 random reservations deleted)");
-        Console.WriteLine();
+       for (int i = 0; i < 5; i++)
+{
+    int randomIndex = random.Next(reservationsArray.Length);
+    Reservation reservationToDelete = reservationsArray[randomIndex];
 
-        reservationHandler.displayWeeklySchedule();
+    if ( reservationsArray[randomIndex]!= null)
+    {
+        reservationHandler.deleteReservation(reservationToDelete);
+        reservationsArray[randomIndex] = null; 
+    }
+    else
+    {
+        Console.WriteLine("Currently deleted.   ");
+        
+    }
+}
+
+Console.WriteLine("(5 random reservations deleted)");
+Console.WriteLine();
+
+reservationHandler.displayWeeklySchedule();
+
+     
 
     }
 }
