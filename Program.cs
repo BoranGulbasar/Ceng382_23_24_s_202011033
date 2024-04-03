@@ -31,6 +31,7 @@ public class ReservationHandler
 {
     public Reservation[,] reservations { get; set; } = new Reservation[10, 7];
 
+
     public void addReservation(Reservation reservation)
     {
 
@@ -53,7 +54,7 @@ public class ReservationHandler
 
         if (reservationAdded)
         {
-            Console.WriteLine("Your reservation has been successfully created!");
+            Console.WriteLine("Your reservation has been successfully created as: " + reservation.reserverName + " to " + reservation.room.roomId);
         }
         else
         {
@@ -79,7 +80,7 @@ public class ReservationHandler
 
         if (reservationDeleted)
         {
-            Console.WriteLine("Reservation deleted.");
+            Console.WriteLine(reservation.room.roomId + "-" +reservation.reserverName + "'s reservation deleted.");
         }
         else
         {
@@ -90,22 +91,33 @@ public class ReservationHandler
     public void displayWeeklySchedule()
     {
         Console.WriteLine("Weekly Reservation Schedule:");
-        Console.WriteLine("----------------------------------");
-        Console.WriteLine("Time\tMonday    Tuesday   Wednesday   Thursday   Friday   Saturday   Sunday");
+        Console.WriteLine("----------------------------------------------------------------------------------------------------------------------------------------");
+        Console.Write("Time\t");
+
+        string[] daysOfWeek = { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" };
+
+        foreach (var day in daysOfWeek)
+        {
+            Console.Write(day.PadRight(20));
+        }
+        Console.WriteLine();
+        Console.Write("----------------------------------------------------------------------------------------------------------------------------------------");
+        Console.WriteLine();
 
         for (int i = 0; i < 10; i++)
         {
-            Console.Write($"{(i + 10).ToString("00")}:00\t");
+            Console.Write($"{(i + 9).ToString("00")}:00|\t");
             for (int j = 0; j < 7; j++)
             {
-                string savedReservation = reservations[i, j]?.reserverName ?? "-----";
-                Console.Write(savedReservation.PadRight(8) + "\t");
+                string savedReservation = reservations[i, j]?.reserverName ?? " ";
+                Console.Write(savedReservation.PadRight(20));
             }
             Console.WriteLine();
         }
+        Console.Write("----------------------------------------------------------------------------------------------------------------------------------------");
+        Console.WriteLine();
     }
 }
-
 
 class Program
 {
@@ -137,7 +149,7 @@ class Program
         }
         ReservationHandler reservationHandler = new ReservationHandler();
 
-        Reservation[] reservationsArray = new Reservation[15];
+        Reservation[] reservationsArray = new Reservation[75];
         Random random = new Random();
 
         for (int i = 0; i < reservationsArray.Length; i++)
@@ -151,18 +163,20 @@ class Program
             reservationsArray[i] = newReservation;
             reservationHandler.addReservation(newReservation);
         }
-                Console.WriteLine("all rezervations added randomly rooms");
-                reservationHandler.displayWeeklySchedule();
+        Console.WriteLine("(All rezervations added randomly rooms)");
+        Console.WriteLine();
+
+        reservationHandler.displayWeeklySchedule();
 
         for (int i = 0; i < 5; i++)
         {
             int randomIndex = random.Next(reservationsArray.Length);
             Reservation reservationToDelete = reservationsArray[randomIndex];
-            reservationsArray[randomIndex] = null;
-
+            
             reservationHandler.deleteReservation(reservationToDelete);
         }
-        Console.WriteLine("5 random reservations deleted");
+        Console.WriteLine("(5 random reservations deleted)");
+        Console.WriteLine();
 
         reservationHandler.displayWeeklySchedule();
 
