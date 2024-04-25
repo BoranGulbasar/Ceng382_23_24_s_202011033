@@ -1,3 +1,4 @@
+using ReservationSystem; 
 public interface IReservationservice{
 
     public void AddReservation(Reservation reservation,string reserverName);

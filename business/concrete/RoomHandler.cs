@@ -3,7 +3,7 @@ using ReservationSystem;
 
 public class RoomHandler{
 
-    private string _filePath;
+    public string _filePath;
     private List<Room> _rooms;
 
     public List<Room> GetRooms(){

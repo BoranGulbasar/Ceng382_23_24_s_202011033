@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\boran\\OneDrive\\Masaüstü (2)\\CENG 382\\382\\Ceng382_23_24_s_202011033\\Ceng382_23_24_s_202011033.csproj",
+      "projectUniqueName": "C:\\Users\\boran\\OneDrive\\Masaüstü (2)\\DERSLER\\CENG 382\\382\\Ceng382_23_24_s_202011033\\Ceng382_23_24_s_202011033.csproj",
       "projectName": "Ceng382_23_24_s_202011033",
-      "projectPath": "C:\\Users\\boran\\OneDrive\\Masaüstü (2)\\CENG 382\\382\\Ceng382_23_24_s_202011033\\Ceng382_23_24_s_202011033.csproj",
+      "projectPath": "C:\\Users\\boran\\OneDrive\\Masaüstü (2)\\DERSLER\\CENG 382\\382\\Ceng382_23_24_s_202011033\\Ceng382_23_24_s_202011033.csproj",
       "packagesPath": "C:\\Users\\boran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\boran\\OneDrive\\Masaüstü (2)\\CENG 382\\382\\Ceng382_23_24_s_202011033\\obj\\",
+      "outputPath": "C:\\Users\\boran\\OneDrive\\Masaüstü (2)\\DERSLER\\CENG 382\\382\\Ceng382_23_24_s_202011033\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\boran\\AppData\\Roaming\\NuGet\\NuGet.Config"
