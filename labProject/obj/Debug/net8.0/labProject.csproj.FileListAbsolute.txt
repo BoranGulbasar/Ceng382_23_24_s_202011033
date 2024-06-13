@@ -29,3 +29,34 @@ c:\Users\boran\OneDrive\Masaüstü (2)\web development\382\Ceng382_23_24_s_20201
 c:\Users\boran\OneDrive\Masaüstü (2)\web development\382\Ceng382_23_24_s_202011033\labProject\obj\Debug\net8.0\labProject.pdb
 c:\Users\boran\OneDrive\Masaüstü (2)\web development\382\Ceng382_23_24_s_202011033\labProject\obj\Debug\net8.0\labProject.genruntimeconfig.cache
 c:\Users\boran\OneDrive\Masaüstü (2)\web development\382\Ceng382_23_24_s_202011033\labProject\obj\Debug\net8.0\ref\labProject.dll
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\bin\Debug\net8.0\appsettings.json
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\bin\Debug\net8.0\labProject.staticwebassets.runtime.json
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\bin\Debug\net8.0\labProject.exe
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\bin\Debug\net8.0\labProject.deps.json
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\bin\Debug\net8.0\labProject.runtimeconfig.json
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\bin\Debug\net8.0\labProject.dll
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\bin\Debug\net8.0\labProject.pdb
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\obj\Debug\net8.0\labProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\obj\Debug\net8.0\labProject.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\obj\Debug\net8.0\labProject.AssemblyInfo.cs
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\obj\Debug\net8.0\labProject.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\obj\Debug\net8.0\labProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\obj\Debug\net8.0\labProject.RazorAssemblyInfo.cache
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\obj\Debug\net8.0\labProject.RazorAssemblyInfo.cs
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\obj\Debug\net8.0\labProject.sourcelink.json
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\obj\Debug\net8.0\staticwebassets\msbuild.labProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\obj\Debug\net8.0\staticwebassets\msbuild.build.labProject.props
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.labProject.props
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.labProject.props
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\obj\Debug\net8.0\scopedcss\bundle\labProject.styles.css
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\obj\Debug\net8.0\scopedcss\projectbundle\labProject.bundle.scp.css
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\obj\Debug\net8.0\labProject.dll
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\obj\Debug\net8.0\refint\labProject.dll
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\obj\Debug\net8.0\labProject.pdb
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\obj\Debug\net8.0\labProject.genruntimeconfig.cache
+C:\Users\user\OneDrive\Masaüstü\382\Ceng382_23_24_s_202011033\labProject\obj\Debug\net8.0\ref\labProject.dll
